@@ -1,7 +1,5 @@
-// Instructions can be found in ternaries.md
+// Instructions can be found in ternaries.mdq
 
 export function sayHello(name) {
-  if (name === undefined) {
-    return "Hello you!";
-  } else return "Hello, " + name + "!";
+ return (name === undefined) ? "Hello you!" : `Hello, ${name}!`
 }
