@@ -1,4 +1,4 @@
-// Instructions can be found in destructuring_arrays.md/
+// Instructions can be found in destructuring_arrays.md
 
 export function sequence(order) {
   // const first = order[0];
